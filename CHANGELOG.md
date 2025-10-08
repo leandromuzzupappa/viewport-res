@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/leandromuzzupappa/viewport-res/compare/v1.0.0...v1.1.0) (2025-10-08)
+
+
+### Features
+
+* release 1.1.0 ([cb5ffd0](https://github.com/leandromuzzupappa/viewport-res/commit/cb5ffd0f6dcda45f2a9e80351dc850e05a5ea32b))
+
 ## 1.0.0 (2025-10-08)
 
 
