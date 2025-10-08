@@ -5,7 +5,7 @@ let defaultOptions = {
   color: '#ff3333',
   backgroundColor: 'rgba(0, 0, 0, 0.7)',
   fontSize: '12px',
-  debounceDelay: 100
+  debounceDelay: 10
 };
 
 function getPositionStyles(position) {
