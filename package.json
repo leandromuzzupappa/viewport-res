@@ -1,5 +1,5 @@
 {
-  "name": "screen-res-display",
+  "name": "viewport-res",
   "version": "1.0.0",
   "description": "Lightweight viewport resolution display for web development",
   "main": "dist/screen-res.js",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leandromuzzupappa/screen-res.git"
+    "url": "git+https://github.com/leandromuzzupappa/viewport-res.git"
   },
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.4",
